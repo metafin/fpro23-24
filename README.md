@@ -10,7 +10,7 @@ python3 -m robotpy init
 python3 -m robotpy sync
 see https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/python-setup.html
 
-
+Runs python 3.11.8
 
 reference repos: 
 
