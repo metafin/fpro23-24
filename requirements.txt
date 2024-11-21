@@ -1,2 +1,5 @@
 pynetworktables
 limelightlib-python
+robotpy
+robotpy-rev
+robotpy-ctre
